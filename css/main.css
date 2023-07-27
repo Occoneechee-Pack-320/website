@@ -1,0 +1,35 @@
+body {
+    min-height: 100%;
+    min-height: 100vh;
+}
+
+.navbar, body {
+    background-color: #fcd116;
+}
+
+#navbar-name {
+    font-weight: bold;
+}
+
+#hero-banner {
+    background-color: #fafafa;
+}
+
+#site-wrapper {
+    background-color: #fff;
+    min-height: 100%;
+    min-height: 100vh;
+    /* stylelint-disable-next-line unit-allowed-list */
+    padding-bottom: 150px;
+}
+
+.has-background-darkblue {
+    background-color: #003f87 !important;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
