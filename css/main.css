@@ -27,6 +27,14 @@ body {
     background-color: #003f87 !important;
 }
 
+.has-background-yellow {
+    background-color: #fcd116 !important;
+}
+
+.navbar-item.has-dropdown.is-active .navbar-link, .navbar-item.has-dropdown:focus .navbar-link, .navbar-item.has-dropdown:hover .navbar-link {
+    background-color: #fcd116 !important;
+}
+
 footer {
     position: absolute;
     left: 0;
