@@ -1,0 +1,7 @@
+exclude:
+  - scripts
+  - package.json
+  - package-lock.json
+  - .eslintrc.json
+  - .stylelintrc
+  - .gitignore

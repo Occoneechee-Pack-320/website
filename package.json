@@ -1,0 +1,24 @@
+{
+  "name": "320website",
+  "version": "1.0.0",
+  "description": "A website for pack 320",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Occoneechee-Pack-320/website.git"
+  },
+  "author": "Patrick Connelly (patrick@connelly.dev)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Occoneechee-Pack-320/website/issues"
+  },
+  "homepage": "https://github.com/Occoneechee-Pack-320/website#readme",
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "stylelint": "^15.10.2",
+    "stylelint-config-standard": "^34.0.0"
+  }
+}
